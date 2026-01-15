@@ -14,3 +14,6 @@ Fig. 2 shows the process of creating a Windows 11 VM and the point of deployment
 
 
 <img width="975" height="808" alt="image" src="https://github.com/user-attachments/assets/2fac4fdc-63c8-4158-aeb3-ed6dc0296b2b" />
+
+
+<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/47c7c61a-727d-425b-af18-e1e079422b8e" />
