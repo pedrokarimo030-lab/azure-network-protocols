@@ -1,6 +1,6 @@
 # Azure-Network-Protocols
 
-Azure Compute and Networking: Performing Activities on the Network.
+Azure Compute and Networking: Performing Network Activities.
 
 This project starts by creating an Azure Resource Group, followed by the deployment of two virtual machines: a Windows 10/11 VM and a Linux VM. I create a new Virtual Network (VNet) with a single subnet and place both virtual machines within this network to ensure they operate on the same IP address space and can communicate directly. 
 
@@ -23,6 +23,11 @@ Fig. 2 shows the process of creating a Windows 11 VM and the point of deployment
 <img width="1049" height="439" alt="image" src="https://github.com/user-attachments/assets/54a4e71a-b826-40d2-9846-eaa3689bd89f" />
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/55135af1-c5aa-4ba8-94c2-e53c06a08bb3" />
+
+
+Creating a Linux (LX) VM is largely similar to creating a Windows VM; however, there are a few key differences. These include selecting a Linux distribution such as Ubuntu and configuring Linux-specific options during setup. Despite these differences, the overall deployment process remains straightforward, and successfully creating both VMs provides valuable hands-on experience with cross-platform system administration in a cloud environment.
+
+
 
 
 
