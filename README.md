@@ -27,6 +27,9 @@ Fig. 2 shows the process of creating a Windows 11 VM and the point of deployment
 
 Creating a Linux (LX) VM is largely similar to creating a Windows VM; however, there are a few key differences. These include selecting a Linux distribution such as Ubuntu and configuring Linux-specific options during setup. Despite these differences, the overall deployment process remains straightforward, and successfully creating both VMs provides valuable hands-on experience with cross-platform system administration in a cloud environment.
 
+<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/84361870-0efc-4741-857d-2d2ce46339dc" />
+
+
 
 
 
