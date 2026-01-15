@@ -37,6 +37,9 @@ Creating a Linux (LX) VM is largely similar to creating a Windows VM; however, t
 
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/a38c8581-c8c7-4da7-8943-228289593727" />
 
+<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/54726b26-4c4b-4eea-b528-c612e76753e6" />
+
+
 
 
 
