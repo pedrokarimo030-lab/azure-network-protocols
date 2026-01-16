@@ -104,6 +104,11 @@ DHCP Traffic in Wireshark, filtering for DHCP only
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/6b07c1ba-ec79-4fee-abf7-7768d71a1661" />
 
+DNS Traffic
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/97da3435-8974-42e4-9625-4d449186baf9" />
+
+
 
 
 
