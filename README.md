@@ -39,6 +39,13 @@ Creating a Linux (LX) VM is largely similar to creating a Windows VM; however, t
 
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/54726b26-4c4b-4eea-b528-c612e76753e6" />
 
+Section 2: Observing ICMP Traffic
+
+This section focuses on analyzing Internet Control Message Protocol (ICMP) traffic between two virtual machines. Using Remote Desktop Protocol (RDP), I connect to a Windows 11 VM, install Wireshark, and begin packet capture. I filter the captured traffic to display ICMP packets only.
+
+After retrieving the private IP address of the Ubuntu (Linux) VM, I initiate a ping from the Windows 11 VM to the Linux VM and analyze the resulting ICMP echo requests and echo replies in Wireshark.
+
+
 
 
 
