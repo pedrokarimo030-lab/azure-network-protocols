@@ -79,6 +79,11 @@ Firewall turn off
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/fe204e23-ce73-48e3-8472-b581f7463daa" />
 
+Disabling incoming (inbound) ICMP Traffic
+
+<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/134bff45-3a2d-41ad-860a-7c2461dddb54" />
+
+
 
 
 
