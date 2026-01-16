@@ -77,6 +77,9 @@ Firewall turn off
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/219cd47e-bf6d-4a61-b775-0014fab1ccde" />
 
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/fe204e23-ce73-48e3-8472-b581f7463daa" />
+
+
 
 
 
