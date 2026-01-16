@@ -100,6 +100,11 @@ SSH Traffic
 
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/cca955de-74b5-4e00-b569-1e82f52e5b95" />
 
+DHCP Traffic in Wireshark, filtering for DHCP only
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/6b07c1ba-ec79-4fee-abf7-7768d71a1661" />
+
+
 
 
 
