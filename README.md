@@ -66,6 +66,7 @@ Next, from the Windows 11 VM, the lab observes ICMP traffic using Wireshark alon
 
 Returning to the Windows 11 VM, the lab confirms that ICMP traffic resumes in both Wireshark and the command-line ping output, indicating restored network connectivity. Finally, the lab stops the ping activity.
 
+Firewall turn off
 
 
 
