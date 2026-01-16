@@ -43,7 +43,10 @@ Section 2: Observing ICMP Traffic
 
 This section focuses on analyzing Internet Control Message Protocol (ICMP) traffic between two virtual machines. Using Remote Desktop Protocol (RDP), I connect to a Windows 11 VM, install Wireshark, and begin packet capture. I filter the captured traffic to display ICMP packets only.
 
-After retrieving the private IP address of the Ubuntu (Linux) VM, I initiate a ping from the Windows 11 VM to the Linux VM and analyze the resulting ICMP echo requests and echo replies in Wireshark.
+After retrieving the private IP address of the Ubuntu (Linux) VM, I initiate a ping from the Windows 11 VM to the Linux VM and analyze the resulting ICMP echo requests and echo replies in Wireshark
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/17d2831d-cbf6-4b5c-a670-e33175653d6d" />
+
 
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/0a8d210d-1a45-40ca-999b-24af09312bda" />
