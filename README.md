@@ -108,6 +108,15 @@ DNS Traffic
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/97da3435-8974-42e4-9625-4d449186baf9" />
 
+RDP Traffic, filtering in Wireshark for RDP traffic only (TCP.Port==3389)
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/c8290915-a47e-477b-872b-b88bd766e39b" />
+
+
+
+
+
+
 
 
 
