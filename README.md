@@ -60,6 +60,12 @@ After retrieving the private IP address of the Ubuntu (Linux) VM, I initiate a p
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eaa261c6-72c2-4c45-b5cf-38c4803decaf" />
 
+Section 3 focuses on configuring a firewall using a Network Security Group (NSG) and initiating a continuous ping from the Windows 11 VM to the Ubuntu VM. First, the lab opens the Ubuntu VM’s Network Security Group and disables inbound ICMP traffic.
+
+Next, from the Windows 11 VM, the lab observes ICMP traffic using Wireshark alongside the ongoing ping activity in the command line. Afterward, the lab re-enables inbound ICMP traffic in the Ubuntu VM’s Network Security Group.
+
+Returning to the Windows 11 VM, the lab confirms that ICMP traffic resumes in both Wireshark and the command-line ping output, indicating restored network connectivity. Finally, the lab stops the ping activity.
+
 
 
 
