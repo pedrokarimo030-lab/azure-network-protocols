@@ -87,7 +87,10 @@ Disabling incoming (inbound) ICMP Traffic
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/dab73b14-d103-439b-a74f-fee426fd1737" />
 
-Only Requests and no Replies means there was no communication between the two devices: (Linux Private IP address 172.17.0.4 and the Public IP address 52.190.17.69)
+Only Requests and no Replies, as shown below, means there was no communication between the two devices: (Linux Private IP address 172.17.0.4 and the Public IP address 52.190.17.69)
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/eba39179-7e9f-43d6-b632-0c6b24f046d8" />
+
 
 
 
