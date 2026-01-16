@@ -68,6 +68,9 @@ Returning to the Windows 11 VM, the lab confirms that ICMP traffic resumes in bo
 
 Firewall turn off
 
+<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/1a6a8583-797a-4c5e-b07d-2335bd40b0c2" />
+
+
 
 
 
