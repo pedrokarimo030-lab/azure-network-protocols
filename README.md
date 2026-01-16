@@ -46,6 +46,9 @@ This section focuses on analyzing Internet Control Message Protocol (ICMP) traff
 After retrieving the private IP address of the Ubuntu (Linux) VM, I initiate a ping from the Windows 11 VM to the Linux VM and analyze the resulting ICMP echo requests and echo replies in Wireshark.
 
 
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/0a8d210d-1a45-40ca-999b-24af09312bda" />
+
+
 
 
 
