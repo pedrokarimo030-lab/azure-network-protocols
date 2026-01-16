@@ -91,6 +91,8 @@ Only Requests and no Replies, as shown below, means there was no communication b
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/eba39179-7e9f-43d6-b632-0c6b24f046d8" />
 
+SSH Traffic
+
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/cca955de-74b5-4e00-b569-1e82f52e5b95" />
 
 
