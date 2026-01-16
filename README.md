@@ -56,6 +56,9 @@ After retrieving the private IP address of the Ubuntu (Linux) VM, I initiate a p
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/bbab3159-0451-40a8-b68c-9fab41f841b5" />
 
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/25284e05-440c-4424-97b5-0a2286a0fe3d" />
+
+
 
   
   />
