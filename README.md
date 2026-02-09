@@ -2,7 +2,7 @@
 
 Objective:
 
-The purpose of this lab is to design and deploy a basic Azure networking environment, deploy cross-platform virtual machines, and observe network traffic behavior using packet analysis tools. The lab also demonstrates how Azure Network Security Groups (NSGs) control traffic flow within a virtual network.
+The purpose of this lab is to design and deploy a basic Azure networking environment, deploy cross-platform virtual machines, and observe network traffic behavior using packet analysis tools. The lab also demonstrates how Azure Network Security Groups (NSGs) control traffic flow within a virtual network. A new Virtual Network (VNet) with a single subnet is created. Both virtual machines are deployed into this same subnet to ensure they share the same IP address space and can communicate directly using private IP addresses.
 
 Section 1: Azure Environment Setup
 Resource Group Creation
