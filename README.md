@@ -1,5 +1,7 @@
 # Azure Compute and Networking: Performing Network Activities
-Objective
+
+Objective:
+
 The purpose of this lab is to design and deploy a basic Azure networking environment, deploy cross-platform virtual machines, and observe network traffic behavior using packet analysis tools. The lab also demonstrates how Azure Network Security Groups (NSGs) control traffic flow within a virtual network.
 
 This fig. 1 is the Resource Group
