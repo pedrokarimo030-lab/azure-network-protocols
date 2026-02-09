@@ -51,10 +51,10 @@ Deploying both Windows and Linux virtual machines in the same environment provid
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/54726b26-4c4b-4eea-b528-c612e76753e6" />
 
 Section 2: Observing ICMP Traffic
+Packet Capture Setup
+Using Remote Desktop Protocol (RDP), the lab connects to the Windows 11 virtual machine. Wireshark is installed and configured to begin packet capture. A display filter is applied to show only ICMP traffic:
+icmp
 
-This section focuses on analyzing Internet Control Message Protocol (ICMP) traffic between two virtual machines. Using Remote Desktop Protocol (RDP), I connect to a Windows 11 VM, install Wireshark, and begin packet capture. I filter the captured traffic to display ICMP packets only.
-
-After retrieving the private IP address of the Ubuntu (Linux) VM, I initiate a ping from the Windows 11 VM to the Linux VM and analyze the resulting ICMP echo requests and echo replies in Wireshark
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/17d2831d-cbf6-4b5c-a670-e33175653d6d" />
 
