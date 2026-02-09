@@ -112,6 +112,8 @@ RDP Traffic, filtering in Wireshark for RDP traffic only (TCP.Port==3389)
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/c8290915-a47e-477b-872b-b88bd766e39b" />
 
+This lab successfully demonstrated Azure compute and networking fundamentals, including VNet design, VM deployment, NSG-based traffic filtering, and protocol analysis using Wireshark. By observing ICMP, DNS, and RDP traffic before and after NSG rule changes, the lab validated how Azure controls network communication at the infrastructure level. The exercise reinforced practical skills in troubleshooting connectivity issues, interpreting packet captures, and managing cloud firewall rules.
+
 
 
 
