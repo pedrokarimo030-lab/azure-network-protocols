@@ -13,7 +13,10 @@ The lab begins by creating an Azure Resource Group, which serves as a logical co
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79330ec2-b737-4074-920c-96890051d95e" />
 
-Fig. 2 shows the step-by-step process for creating a Windows 11 VM up to deployment.
+Windows 11 Virtual Machine Deployment
+A Windows 11 virtual machine is created using the Azure portal. The configuration process includes selecting the appropriate image, VM size, authentication method, and networking options. Once the configuration is complete, the VM is successfully deployed.
+
+(Figure 2: Windows 11 VM Creation Process)
 
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/859d7242-bbc2-49c6-a04a-011fc4fbb023" />
 
