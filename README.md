@@ -61,7 +61,7 @@ icmp
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd0cb664-0a30-4810-825b-b5b33454980b" />
 
-
+Display filter is applied to show only ICMP traffic: icmp
 
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/0a8d210d-1a45-40ca-999b-24af09312bda" />
