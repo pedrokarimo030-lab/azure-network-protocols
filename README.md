@@ -1,8 +1,6 @@
-# Azure-Network-Protocols
-
-Azure Compute and Networking: Performing Network Activities.
-
-This project starts by creating an Azure Resource Group, followed by the deployment of two virtual machines: a Windows 10/11 VM and a Linux VM. I create a new Virtual Network (VNet) with a single subnet and place both virtual machines within this network to ensure they operate on the same IP address space and can communicate directly. 
+# Azure Compute and Networking: Performing Network Activities
+Objective
+The purpose of this lab is to design and deploy a basic Azure networking environment, deploy cross-platform virtual machines, and observe network traffic behavior using packet analysis tools. The lab also demonstrates how Azure Network Security Groups (NSGs) control traffic flow within a virtual network.
 
 This fig. 1 is the Resource Group
 
