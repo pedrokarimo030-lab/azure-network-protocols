@@ -72,11 +72,13 @@ icmp
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eaa261c6-72c2-4c45-b5cf-38c4803decaf" />
 
-Section 3 focuses on configuring a firewall using a Network Security Group (NSG) and initiating a continuous ping from the Windows 11 VM to the Ubuntu VM. First, the lab opens the Ubuntu VM’s Network Security Group and disables inbound ICMP traffic.
+Section 3: Network Security Group (Firewall) Configuration
+Blocking ICMP Traffic
+This section demonstrates how Azure enforces firewall rules using a Network Security Group (NSG). The NSG associated with the Ubuntu VM’s network interface is modified to deny inbound ICMP traffic.
+Once the rule is applied, the ongoing ping from the Windows 11 VM continues to send Echo Requests; however, no Echo Replies are received.
+In Wireshark, only ICMP Echo Requests are visible, confirming that inbound ICMP traffic is being blocked by the NSG.
+(Linux Private IP: 172.17.0.4)
 
-Next, from the Windows 11 VM, the lab observes ICMP traffic using Wireshark alongside the ongoing ping activity in the command line. Afterward, the lab re-enables inbound ICMP traffic in the Ubuntu VM’s Network Security Group.
-
-Returning to the Windows 11 VM, the lab confirms that ICMP traffic resumes in both Wireshark and the command-line ping output, indicating restored network connectivity. Finally, the lab stops the ping activity.
 
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/fe2b420b-5604-4180-8a1c-310a8f034338" />
