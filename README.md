@@ -4,11 +4,16 @@ Objective:
 
 The purpose of this lab is to design and deploy a basic Azure networking environment, deploy cross-platform virtual machines, and observe network traffic behavior using packet analysis tools. The lab also demonstrates how Azure Network Security Groups (NSGs) control traffic flow within a virtual network.
 
-This fig. 1 is the Resource Group
+Section 1: Azure Environment Setup
+Resource Group Creation
+
+The lab begins by creating an Azure Resource Group, which serves as a logical container for all Azure resources used in this project. This approach simplifies resource management, monitoring, and cleanup.
+
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79330ec2-b737-4074-920c-96890051d95e" />
 
-Fig. 2 shows the process of creating a Windows 11 VM step-by-step up to the point of deployment.
+Fig. 2 shows the step-by-step process for creating a Windows 11 VM up to deployment.
 
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/859d7242-bbc2-49c6-a04a-011fc4fbb023" />
 
