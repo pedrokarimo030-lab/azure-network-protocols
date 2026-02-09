@@ -9,7 +9,7 @@ Resource Group Creation
 
 The lab begins by creating an Azure Resource Group, which serves as a logical container for all Azure resources used in this project. This approach simplifies resource management, monitoring, and cleanup.
 
-
+(Figure 1: Resource Group Overview)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79330ec2-b737-4074-920c-96890051d95e" />
 
