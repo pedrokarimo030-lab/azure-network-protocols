@@ -8,7 +8,7 @@ This fig. 1 is the Resource Group
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79330ec2-b737-4074-920c-96890051d95e" />
 
-Fig. 2 shows the process of creating a Windows 11 VM and the point of deployment.
+Fig. 2 shows the process of creating a Windows 11 VM step-by-step up to the point of deployment.
 
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/859d7242-bbc2-49c6-a04a-011fc4fbb023" />
 
