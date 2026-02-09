@@ -50,6 +50,7 @@ Deploying both Windows and Linux virtual machines in the same environment provid
 
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/54726b26-4c4b-4eea-b528-c612e76753e6" />
 
+
 Section 2: Observing ICMP Traffic
 Packet Capture Setup
 Using Remote Desktop Protocol (RDP), the lab connects to the Windows 11 virtual machine. Wireshark is installed and configured to begin packet capture. A display filter is applied to show only ICMP traffic:
