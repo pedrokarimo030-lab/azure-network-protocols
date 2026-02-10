@@ -20,8 +20,6 @@ A Windows 11 virtual machine is created using the Azure portal. The configuratio
 
 (Figure 2: Windows 11 VM Creation Process)
 
-<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/859d7242-bbc2-49c6-a04a-011fc4fbb023" />
-
 
 <img width="975" height="808" alt="image" src="https://github.com/user-attachments/assets/2fac4fdc-63c8-4158-aeb3-ed6dc0296b2b" />
 
