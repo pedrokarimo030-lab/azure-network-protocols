@@ -123,7 +123,7 @@ In Wireshark, only ICMP Echo Requests are visible, confirming that inbound ICMP 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/eba39179-7e9f-43d6-b632-0c6b24f046d8" />
 
 Observe SSH Traffic: SSH filtering, SSH traffic only.
-From Windows 11-VM, SSH was accessed through Ubuntu VM (via its private IP address), typing commands (username, pwd, etc.) into the Linux SSH connection, and observed SSH traffic spam in Wireshark. 
+From the Windows 11-VM, SSH was accessed through the Ubuntu VM (via its private IP address), typing commands (username, pwd, etc.) into the Linux SSH connection, and observing SSH traffic spam in Wireshark. 
 
 
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/cca955de-74b5-4e00-b569-1e82f52e5b95" />
@@ -135,8 +135,8 @@ DHCP Traffic in Wireshark, filtering for DHCP only
 Section 5: Observing DNS Traffic
 
 To observe DNS traffic, Wireshark is filtered using:
-DNS
-A hostname resolution action (such as accessing a website or pinging a domain name) is performed. Wireshark captures DNS queries and responses, demonstrating name resolution traffic over UDP port 53.
+
+A hostname resolution action (such as accessing a website or pinging a domain name) is performed. Wireshark captures DNS queries and responses, showing name-resolution traffic over UDP port 53.
 This confirms how virtual machines rely on DNS services to resolve hostnames into IP addresses within Azure.
 
 
