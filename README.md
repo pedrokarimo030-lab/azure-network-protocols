@@ -28,6 +28,8 @@ A Windows 11 virtual machine is created using the Azure portal. The configuratio
 
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/47c7c61a-727d-425b-af18-e1e079422b8e" />
 
+<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/859d7242-bbc2-49c6-a04a-011fc4fbb023" />
+
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/76df736d-0120-403d-b871-98787482396e" />
 
 <img width="1049" height="439" alt="image" src="https://github.com/user-attachments/assets/54a4e71a-b826-40d2-9846-eaa3689bd89f" />
