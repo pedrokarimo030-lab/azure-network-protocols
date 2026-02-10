@@ -113,7 +113,9 @@ In contrast, the figure that follows shows only Requests and no Replies, meaning
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/eba39179-7e9f-43d6-b632-0c6b24f046d8" />
 
-SSH Traffic
+Observe SSH Traffic: SSH Traffic by filtering for SSH traffic only.
+From Windows 11-VM, SSH was accessed through Ubuntu VM (via its private IP address), typing commands (username, pwd, etc.) into the Linux SSH connection, and observed SSH traffic spam in Wireshark. 
+
 
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/cca955de-74b5-4e00-b569-1e82f52e5b95" />
 
