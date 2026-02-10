@@ -110,12 +110,19 @@ Wireshark captures the ICMP Echo Requests sent from the Windows VM and the corre
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/543bb990-d213-4872-9201-390e746cd77b" />
 
+Network Security Group (Firewall) Configuration blocking ICMP Traffic
 
-In contrast, the figure that follows shows only Requests and no Replies, meaning there was no communication between the two devices: (Linux Private IP address 172.17.0.4 and the Public IP address 52.190.17.69) after the denial of ICMP Traffic.
+This section demonstrates how Azure enforces firewall rules using a Network Security Group (NSG). The NSG associated with the Ubuntu VM’s network interface is modified to "deny" inbound ICMP traffic.
+Once the rule is applied, the ongoing ping from the Windows 11 VM continues to send Echo Requests; however, no Echo Replies are received.
+In Wireshark, only ICMP Echo Requests are visible, confirming that inbound ICMP traffic is being blocked by the NSG.
+(Linux Private IP: 172.17.0.4)
+
+<img width="1832" height="946" alt="Traffic Denied" src="https://github.com/user-attachments/assets/0b27d298-de0c-4ba2-9de7-dd2b08c8e878" />
+
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/eba39179-7e9f-43d6-b632-0c6b24f046d8" />
 
-Observe SSH Traffic: SSH Traffic by filtering for SSH traffic only.
+Observe SSH Traffic: SSH filtering, SSH traffic only.
 From Windows 11-VM, SSH was accessed through Ubuntu VM (via its private IP address), typing commands (username, pwd, etc.) into the Linux SSH connection, and observed SSH traffic spam in Wireshark. 
 
 
@@ -125,7 +132,13 @@ DHCP Traffic in Wireshark, filtering for DHCP only
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/6b07c1ba-ec79-4fee-abf7-7768d71a1661" />
 
-DNS Traffic
+Section 5: Observing DNS Traffic
+
+To observe DNS traffic, Wireshark is filtered using:
+dns
+A hostname resolution action (such as accessing a website or pinging a domain name) is performed. Wireshark captures DNS queries and responses, demonstrating name resolution traffic over UDP port 53.
+This confirms how virtual machines rely on DNS services to resolve hostnames into IP addresses within Azure.
+
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/97da3435-8974-42e4-9625-4d449186baf9" />
 
