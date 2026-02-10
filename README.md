@@ -101,6 +101,7 @@ Disabling incoming (inbound) ICMP Traffic
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/dab73b14-d103-439b-a74f-fee426fd1737" />
 
 ICMP Echo Request and Reply Analysis
+
 The private IP address of the Ubuntu VM is obtained from the Azure portal. From the Windows 11 VM, a continuous ping is initiated to the Linux VM using the private IP address:
 ping <Linux-Private-IP> -t
 Wireshark captures the ICMP Echo Requests sent from the Windows VM and the corresponding Echo Replies returned by the Linux VM, confirming successful network communication within the VNet.
