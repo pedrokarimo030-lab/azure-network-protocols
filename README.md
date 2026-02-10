@@ -72,6 +72,8 @@ During the active RDP session, TCP traffic on port 3389 is visible. While the pa
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/bbab3159-0451-40a8-b68c-9fab41f841b5" />
 
+Observe ping requests and replies within Wireshark.
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eaa261c6-72c2-4c45-b5cf-38c4803decaf" />
 
 Section 4: Network Security Group (Firewall) Configuration
