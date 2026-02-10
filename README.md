@@ -61,8 +61,12 @@ icmp
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd0cb664-0a30-4810-825b-b5b33454980b" />
 
-
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/0a8d210d-1a45-40ca-999b-24af09312bda" />
+
+Section 3: Observing RDP Traffic
+Wireshark is configured to filter Remote Desktop traffic using:
+tcp.port == 3389
+During the active RDP session, TCP traffic on port 3389 is visible. While the packets can be observed, the payload data is encrypted, demonstrating how RDP provides secure remote access even when traffic is intercepted at the network level.
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/bbab3159-0451-40a8-b68c-9fab41f841b5" />
 
@@ -70,7 +74,7 @@ icmp
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eaa261c6-72c2-4c45-b5cf-38c4803decaf" />
 
-Section 3: Network Security Group (Firewall) Configuration
+Section 4: Network Security Group (Firewall) Configuration
 Blocking ICMP Traffic
 This section demonstrates how Azure enforces firewall rules using a Network Security Group (NSG). The NSG associated with the Ubuntu VM’s network interface is modified to deny inbound ICMP traffic.
 Once the rule is applied, the ongoing ping from the Windows 11 VM continues to send Echo Requests; however, no Echo Replies are received.
