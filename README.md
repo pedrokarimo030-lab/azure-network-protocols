@@ -36,7 +36,8 @@ A Windows 11 virtual machine is created using the Azure portal. The configuratio
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/55135af1-c5aa-4ba8-94c2-e53c06a08bb3" />
 
 
-Section2:
+Section 2:
+
 Linux (Ubuntu) Virtual Machine Deployment
 A Linux virtual machine (Ubuntu) is deployed following a similar process to the Windows VM. Key differences include selecting a Linux distribution and configuring Linux-specific settings such as SSH authentication. Despite these differences, the overall deployment process remains straightforward.
 Deploying both Windows and Linux virtual machines in the same environment provides practical experience with cross-platform system administration in a cloud network.
@@ -55,7 +56,7 @@ Deploying both Windows and Linux virtual machines in the same environment provid
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/54726b26-4c4b-4eea-b528-c612e76753e6" />
 
 
-Section 2: Observing ICMP Traffic
+Section 3 : Observing ICMP Traffic
 Packet Capture Setup
 Using Remote Desktop Protocol (RDP), the lab connects to the Windows 11 virtual machine. Wireshark is installed and configured to begin packet capture. A display filter is applied to show only ICMP traffic:
 icmp
