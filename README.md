@@ -98,8 +98,6 @@ Disabling incoming (inbound) ICMP Traffic
 
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/134bff45-3a2d-41ad-860a-7c2461dddb54" />
 
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/4121b5e2-bae3-4c39-b551-155405663652" />
-
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/dab73b14-d103-439b-a74f-fee426fd1737" />
 
 Fig. below shows perpetual traffic before traffic was denied.
