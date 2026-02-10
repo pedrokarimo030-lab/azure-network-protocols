@@ -36,6 +36,7 @@ A Windows 11 virtual machine is created using the Azure portal. The configuratio
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/55135af1-c5aa-4ba8-94c2-e53c06a08bb3" />
 
 
+Section2:
 Linux (Ubuntu) Virtual Machine Deployment
 A Linux virtual machine (Ubuntu) is deployed following a similar process to the Windows VM. Key differences include selecting a Linux distribution and configuring Linux-specific settings such as SSH authentication. Despite these differences, the overall deployment process remains straightforward.
 Deploying both Windows and Linux virtual machines in the same environment provides practical experience with cross-platform system administration in a cloud network.
