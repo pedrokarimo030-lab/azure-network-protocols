@@ -2,12 +2,13 @@
 
 Objective:
 
-The purpose of this lab is to design and deploy a basic Azure networking environment, deploy cross-platform virtual machines, and observe network traffic behavior using packet analysis tools. The lab also demonstrates how Azure Network Security Groups (NSGs) control traffic flow within a virtual network. A new Virtual Network (VNet) with a single subnet is created. Both virtual machines are deployed into this same subnet to ensure they share the same IP address space and can communicate directly using private IP addresses.
+This lab focuses on designing and deploying a basic Azure networking environment. I created a Virtual Network (VNet) with a single subnet and deployed both a Windows and a Linux virtual machine into the same subnet. By placing the VMs within the same IP address space, I ensured direct communication using private IP addresses.
 
-Section 1: Azure Environment Setup
-Resource Group Creation
+The lab also examines network traffic behavior through packet analysis tools and demonstrates how Azure Network Security Groups (NSGs) control and filter traffic within the virtual network.
 
-The lab begins by creating an Azure Resource Group, which serves as a logical container for all Azure resources used in this project. This approach simplifies resource management, monitoring, and cleanup.
+Section 1: Azure Environment Setup – Resource Group Creation
+
+I began by creating an Azure Resource Group to serve as a logical container for all resources used in the lab. This structure centralizes management, simplifies monitoring, and allows for efficient deployment and cleanup of resources.
 
 (Figure 1: Resource Group Overview)
 
