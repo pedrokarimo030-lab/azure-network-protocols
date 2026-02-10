@@ -123,7 +123,7 @@ In Wireshark, only ICMP Echo Requests are visible, confirming that inbound ICMP 
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/eba39179-7e9f-43d6-b632-0c6b24f046d8" />
 
-Observe SSH Traffic: SSH filtering, SSH traffic only.
+-Observe SSH Traffic: SSH filtering, SSH traffic only.
 From the Windows 11-VM, SSH was accessed through the Ubuntu VM (via its private IP address), typing commands (username, pwd, etc.) into the Linux SSH connection, and observing SSH traffic spam in Wireshark. 
 
 
