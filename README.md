@@ -135,7 +135,7 @@ DHCP Traffic in Wireshark, filtering for DHCP only
 Section 5: Observing DNS Traffic
 
 To observe DNS traffic, Wireshark is filtered using:
-dns
+DNS
 A hostname resolution action (such as accessing a website or pinging a domain name) is performed. Wireshark captures DNS queries and responses, demonstrating name resolution traffic over UDP port 53.
 This confirms how virtual machines rely on DNS services to resolve hostnames into IP addresses within Azure.
 
