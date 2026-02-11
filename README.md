@@ -6,7 +6,7 @@ This lab focuses on designing and deploying a basic Azure networking environment
 
 The lab also examines network traffic behavior through packet analysis tools and demonstrates how Azure Network Security Groups (NSGs) control and filter traffic within the virtual network.
 
-Section 1: ##Azure Environment Setup – Resource Group Creation
+Section 1: Azure Environment Setup – Resource Group Creation
 
 I began by creating an Azure Resource Group to serve as a logical container for all resources used in the lab. This structure centralizes management, simplifies monitoring, and allows for efficient deployment and cleanup of resources.
 
