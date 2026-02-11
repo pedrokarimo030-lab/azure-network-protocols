@@ -73,7 +73,7 @@ icmp
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/0a8d210d-1a45-40ca-999b-24af09312bda" />
 
-Section 4: Observing RDP Traffic
+##  Section 4: Observing RDP Traffic
 Wireshark is configured to filter Remote Desktop traffic using:
 tcp.port == 3389
 During the active RDP session, TCP traffic on port 3389 is visible. While the packets can be observed, the payload data is encrypted, demonstrating how RDP provides secure remote access even when traffic is intercepted at the network level.
@@ -84,7 +84,7 @@ Observe ping requests and replies within Wireshark.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eaa261c6-72c2-4c45-b5cf-38c4803decaf" />
 
-Section 5: Network Security Group (Firewall) Configuration
+##  Section 5: Network Security Group (Firewall) Configuration
 Blocking ICMP Traffic
 This section demonstrates how Azure enforces firewall rules using a Network Security Group (NSG). The NSG associated with the Ubuntu VM’s network interface is modified to deny inbound ICMP traffic.
 Once the rule is applied, the ongoing ping from the Windows 11 VM continues to send Echo Requests; however, no Echo Replies are received.
@@ -108,7 +108,7 @@ Disabling incoming (inbound) ICMP Traffic
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/dab73b14-d103-439b-a74f-fee426fd1737" />
 
-Section 6: ICMP Echo Request and Reply Analysis
+##  Section 6: ICMP Echo Request and Reply Analysis
 
 The private IP address of the Ubuntu VM is obtained from the Azure portal. From the Windows 11 VM, a continuous ping is initiated to the Linux VM using the private IP address:
 ping <Linux-Private-IP> -t
@@ -116,7 +116,7 @@ Wireshark captures the ICMP Echo Requests sent from the Windows VM and the corre
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/543bb990-d213-4872-9201-390e746cd77b" />
 
-Section 7: Network Security Group (Firewall) Configuration blocking ICMP Traffic
+##  Section 7: Network Security Group (Firewall) Configuration blocking ICMP Traffic
 
 This section demonstrates how Azure enforces firewall rules using a Network Security Group (NSG). The NSG associated with the Ubuntu VM’s network interface is modified to "deny" inbound ICMP traffic.
 Once the rule is applied, the ongoing ping from the Windows 11 VM continues to send Echo Requests; however, no Echo Replies are received.
