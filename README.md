@@ -44,6 +44,7 @@ Deploying both Windows and Linux virtual machines in the same environment provid
 
 ![Ubuntu VM Deployment](https://github.com/user-attachments/assets/84361870-0efc-4741-857d-2d2ce46339dc)
 
+
 *Figure 2: Ubuntu Virtual Machine Deployment in Azure*
 
 
