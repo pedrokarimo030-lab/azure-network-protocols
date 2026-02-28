@@ -14,7 +14,10 @@ I began by creating an Azure Resource Group to serve as a logical container for 
 
 <img width="1862" height="967" alt="image" src="https://github.com/user-attachments/assets/12a389cf-2fbf-4fcc-9c59-a0736ed0ab2b" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79330ec2-b737-4074-920c-96890051d95e" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-17 225727" src="https://github.com/user-attachments/assets/f45cc869-c716-44af-9aec-723011cbc827" />
+
+<img width="1920" height="1080" alt="Subscription, RG-26, and Region (East) Step 3" src="https://github.com/user-attachments/assets/f5580831-4c90-42c8-9b13-4298dbf30d85" />
+
 
 Windows 11 Virtual Machine Deployment
 
