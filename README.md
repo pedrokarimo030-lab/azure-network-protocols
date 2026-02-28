@@ -14,8 +14,6 @@ I began by creating an Azure Resource Group to serve as a logical container for 
 
 <img width="1862" height="967" alt="image" src="https://github.com/user-attachments/assets/12a389cf-2fbf-4fcc-9c59-a0736ed0ab2b" />
 
-<img width="1920" height="1080" alt="Create  fig 2" src="https://github.com/user-attachments/assets/19cc381c-1871-43e7-95eb-fcb18979c4a4" />
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79330ec2-b737-4074-920c-96890051d95e" />
 
 Windows 11 Virtual Machine Deployment
