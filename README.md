@@ -12,6 +12,12 @@ I began by creating an Azure Resource Group to serve as a logical container for 
 
 (Figure 1: Resource Group Overview)
 
+<img width="1920" height="1080" alt="Creation of  DC-1 VM" src="https://github.com/user-attachments/assets/bd0f07cb-2d18-4c9c-ae77-bb955a1e7d39" />
+
+<img width="1920" height="1080" alt="Create  fig 2" src="https://github.com/user-attachments/assets/19cc381c-1871-43e7-95eb-fcb18979c4a4" />
+
+
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79330ec2-b737-4074-920c-96890051d95e" />
 
 Windows 11 Virtual Machine Deployment
